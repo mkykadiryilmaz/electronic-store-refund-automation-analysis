@@ -99,7 +99,9 @@ E-mail
 
 📎 Google Sheets link:
 [View My Project](https://docs.google.com/spreadsheets/d/1kwOMrdwE-oXQVi1Q2y_d4VFDuJC99sTwQZKf7l2AE1I/edit?gid=651950040#gid=651950040)
-📸 Proje Ekran Görüntüleri
+
+📸 Project Screenshots
+
 Google Form Setup
 
 ![Form](./images/Form1.png)

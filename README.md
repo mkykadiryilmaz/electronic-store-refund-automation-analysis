@@ -102,18 +102,18 @@ E-mail
 📸 Proje Ekran Görüntüleri
 Google Form Kurulumu
 
-![Form](images/Form1.png)
-![Form](images/Form2.png)
+![Form](./images/Form1.png)
+![Form](./images/Form2.png)
 
 Zapier Otomasyon İş Akışı
 
-![Zapier](images/Zapier1.png)
-![ZapierPath](images/Zapier2.png)
+![Zapier](./images/Zapier1.png)
+![ZapierPath](./images/Zapier2.png)
 
 Koşullu E-posta Örneği
 
-![E-mail](images/email1.png)
-![E-mail](images/email2.png)
+![E-mail](./images/email1.png)
+![E-mail](./images/email2.png)
 
 
 

@@ -59,17 +59,7 @@ Pivot Tables & Charts – Exploratory data analysis
 
 🔄 Automation Workflow
 
-Customer
-↓
-Google Form Submission
-↓
-Zapier Trigger
-↓
-Data sent to Google Sheets
-↓
-Conditional Logic (based on Refund Amount)
-↓
-Automated Email Notification
+Customer → Google Form Submission → Zapier Trigger → Data sent to Google Sheets → Conditional Logic (based on Refund Amount) → Automated Email Notification
 
 Key Automation Features
 
